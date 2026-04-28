@@ -18,21 +18,17 @@ All content is structured **year-wise and semester-wise** for easy navigation an
 ```
 cse-university-work/
 │
-├── year-1/
-│   ├── semester-1/
-│   ├── semester-2/
+│── semester-1/
+│── semester-2/
 │
-├── year-2/
-│   ├── semester-3/
-│   ├── semester-4/
+│── semester-3/
+│── semester-4/
 │
-├── year-3/
-│   ├── semester-5/
-│   ├── semester-6/
+│── semester-5/
+│── semester-6/
 │
-├── year-4/
-│   ├── semester-7/
-│   ├── semester-8/
+│── semester-7/
+│── semester-8/
 │
 └── common-resources/
 ```
@@ -74,7 +70,7 @@ cse-university-work/
 
 ## 🚀 How to Use
 
-1. Navigate to the desired **year → semester → subject**
+1. Navigate to the desired **semester → subject**
 2. Open folders like:
 
    * `labs/`
