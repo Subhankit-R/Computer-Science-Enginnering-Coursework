@@ -1,0 +1,5 @@
+# CLOSE file manually (without with block)
+f = open("sample.txt", "r")
+print(f.readline())
+f.close()
+print("File closed manually.")
